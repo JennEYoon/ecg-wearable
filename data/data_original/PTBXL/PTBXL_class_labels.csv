@@ -1,0 +1,8 @@
+SNOMED_code,class_code,description
+426783006,0,Sinus Rhythm (Normal)
+397320003,1,Left-axis Deviation
+164934002,2,t-wave abnormal
+164889003,3,Atrial Fibrillation
+270492004,4,1st degree AV block
+445118002,5,Left anterior fascicular block
+none,6,Other arrhythmias (abnormal)
